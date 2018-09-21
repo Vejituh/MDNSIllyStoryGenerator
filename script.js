@@ -1,3 +1,4 @@
+"use strict";
 const customName = document.getElementById("customname");
 const btnRandomize = document.querySelector(".btnRandomize");
 const story = document.querySelector(".story");
